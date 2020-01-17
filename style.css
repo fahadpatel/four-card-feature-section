@@ -1,0 +1,12 @@
+body {
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box;
+   background-color: hsl(0, 0%, 98%);
+   text-rendering: optimizeLegibility;
+}
+
+.container {
+   width: 60%;
+   height: 60%;
+} 
